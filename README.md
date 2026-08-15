@@ -16,7 +16,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/AbhishekNarwade?label=Followers&style=for-the-badge&logo=github&color=2ea44f)](https://github.com/AbhishekNarwade?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/AbhishekNarwade?label=Total%20Stars&style=for-the-badge&logo=github&color=gold)](https://github.com/AbhishekNarwade)
 [![Profile Views](https://komarev.com/ghpvc/?username=AbhishekNarwade&label=Profile%20Views&color=007ACC&style=for-the-badge)](https://github.com/AbhishekNarwade)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-narwade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisheknarwade/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheknarwade99@gmail.com)
 
 </div>
@@ -131,7 +131,7 @@ Developer_Profile:
 
 ### 🤝 Let's Connect & Collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-narwade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisheknarwade/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheknarwade99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekNarwade)
 
