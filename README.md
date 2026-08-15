@@ -1,15 +1,21 @@
 <div align="center">
 
-# Hi there, I'm Abhishek Narwade 👋 
-### Full-Stack Developer | AI & ML Engineer | Cybersecurity Specialist
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Abhishek%20Narwade&fontSize=65&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Cybersecurity%20Specialist&descSize=20&descAlign=50&descAlignY=70" width="100%" alt="Header Banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Architect;Cybersecurity+Vulnerability+Auditor;Building+Scalable+Smart+Applications)](https://git.io/typing-svg)
+<br/>
 
----
+<!-- Typing Subtitle SVG -->
+<a href="https://github.com/AbhishekNarwade">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Full-Stack+Web+%26+Mobile+App+Architect;%F0%9F%A5%A0+AI%2FML+Researcher+%26+Computer+Vision+Engineer;%F0%9F%9F%A2+IEEE+Published+Author+in+Smart+Agriculture;%F0%9F%94%92+Cybersecurity+Vulnerability+Auditor;%F0%9F%92%A1+Building+Scalable+High-Performance+Systems" alt="Typing SVG" />
+</a>
 
-[![GitHub followers](https://img.shields.io/github/followers/AbhishekNarwade?label=Followers&style=for-the-badge&logo=github&color=2ea44f)](https://github.com/AbhishekNarwade)
+<br/><br/>
+
+<!-- Profile Action Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/AbhishekNarwade?label=Followers&style=for-the-badge&logo=github&color=2ea44f)](https://github.com/AbhishekNarwade?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/AbhishekNarwade?label=Total%20Stars&style=for-the-badge&logo=github&color=gold)](https://github.com/AbhishekNarwade)
-[![Profile Views](https://komarev.com/ghpvc/?username=AbhishekNarwade&label=Profile%20Views&color=blue&style=for-the-badge)](https://github.com/AbhishekNarwade)
+[![Profile Views](https://komarev.com/ghpvc/?username=AbhishekNarwade&label=Profile%20Views&color=007ACC&style=for-the-badge)](https://github.com/AbhishekNarwade)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-narwade)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheknarwade99@gmail.com)
 
@@ -17,83 +23,102 @@
 
 ---
 
-## 💫 About Me
+## ⚡ About Me & Engineering Philosophy
 
-- 🔭 **Currently Building**: Full-stack intelligent platforms, edge AI computer vision tools, and security scanners.
-- 🎓 **Specialization**: Machine Learning, Deep Learning (CNN / EfficientNet / MobileNet), FastAPI, React, PostgreSQL & Cybersecurity.
-- 📜 **Research & IEEE**: Published author on IEEE for Smart Agriculture & Crop Recommendation Systems.
-- ⚡ **Fun Fact**: Passionate about turning complex real-world field problems into high-impact, offline-first digital applications!
+```yaml
+Developer_Profile:
+  Name: Abhishek Narwade
+  Role: Full-Stack Software Engineer & AI Architect
+  Location: India 🇮🇳
+  Passions: [Scalable Web Systems, Computer Vision, Edge AI, Offensive Security]
+  IEEE_Publications: "Smart Crop Recommendation & Plant Disease Identification"
+  Current_Focus: "Building offline-first AI decision-support software for field impact"
+```
+
+- 🔬 **AI & Deep Learning Specialist**: Experienced in developing Convolutional Neural Networks (CNN), MobileNet classifiers, and Machine Learning algorithms (Random Forest with 99.55% accuracy).
+- 🌐 **Full-Stack Mastery**: Architecting web platforms with **FastAPI**, **React**, **PostgreSQL**, **Redis**, and **Celery**.
+- 🛡️ **Cybersecurity Enthusiast**: Auditing web applications for SQL Injection, XSS, and authentication vulnerabilities.
+- ⚡ **Fun Fact**: I love transforming complex real-world field problems into high-speed, beautiful digital applications!
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🏆 GitHub Trophies & Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=AbhishekNarwade&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+</div>
+
+---
+
+## 🛠️ Complete Technology & Skills Matrix
 
 <div align="center">
 
-| Category | Technologies & Tools |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| **Backend & Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **AI / Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Databases & Async Queues** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37B24D?style=flat-square&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+### 💻 Languages & Frontend Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+</p>
+
+### ⚙️ Backend, AI/ML & Databases
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Engineering Projects
 
 <div align="center">
 
-### 1. [🛡️ Insurance Comparison, Recommendation & Claim Assistant](https://github.com/AbhishekNarwade/Insurance-Comparison-Recommendation-Claim-Assistant)
-Full-Stack web platform featuring JWT auth, 12-factor AI policy recommendation engine, guided 5-step claim wizard, AWS S3 document uploads, and Celery + Redis background status email notifications.
-*Tech: FastAPI, React, PostgreSQL, Celery, Redis, TailwindCSS*
-
----
-
-### 2. [🐄 Bharat Pashu BreedID — Cattle & Buffalo AI Scanner](https://github.com/AbhishekNarwade/Image-Based-Breed-Recognition-for-Cattle-and-Buffaloes-of-India)
-Edge Computer Vision recognition web application powered by TensorFlow.js and MobileNet classifiers for Indian livestock breeds with offline field sync queues and BPA REST API integration.
-*Tech: TensorFlow.js, MobileNet, HTML5, CSS3 Glassmorphism, Offline-First*
-
----
-
-### 3. [🌾 AgriSens — Smart Crop Recommendation & Plant Disease Identification](https://github.com/AbhishekNarwade/AI-based-farmer-query-system)
-IEEE-published machine learning (Random Forest 99.55% accuracy) and CNN deep learning web application for crop selection, 38-class plant disease detection, and fertilizer recommendation.
-*Tech: Python, Machine Learning, TensorFlow CNN, Streamlit, IEEE Research*
-
----
-
-### 4. [✈️ AI Travel Planner & Itinerary Generator](https://github.com/AbhishekNarwade/AI-Travel-Planner)
-Smart interactive travel planner featuring custom trip itinerary generation, destination recommendations, and budget estimators.
-*Tech: JavaScript, HTML5, CSS3, Web API*
-
----
-
-### 5. [🔑 Password Strength Analyzer & Cracking Time Estimator](https://github.com/AbhishekNarwade/password-strength)
-Cybersecurity tool calculating password entropy, GPU brute-force cracking resistance time, and leaks dictionary verification.
-*Tech: JavaScript, Cybersecurity, Entropy Calculations*
-
----
-
-### 6. [🔍 Python Web Vulnerability Scanner](https://github.com/AbhishekNarwade/VulnerabilityScanner)
-Automated CLI security tool for detecting SQL Injection (SQLi), Cross-Site Scripting (XSS), and exposed directory structures.
-*Tech: Python, Requests, Colorama, Penetration Testing*
+| Project Showcase | Description | Technology Stack | Action Links |
+|---|---|---|---|
+| **🛡️ Insurance Assistant** | Full-Stack platform with 12-factor AI policy recommendation engine, 5-step claim wizard, AWS S3 upload & Celery email alerts. | `FastAPI` `React` `PostgreSQL` `Celery` `Redis` `Tailwind` | [📂 Repository](https://github.com/AbhishekNarwade/Insurance-Comparison-Recommendation-Claim-Assistant) |
+| **🐄 Bharat Pashu BreedID** | Client-Side Edge Computer Vision scanner for 20+ Indian cattle & buffalo breeds with offline sync queue. | `TensorFlow.js` `MobileNet` `Offline-First` `Glassmorphism` | [📂 Repository](https://github.com/AbhishekNarwade/Image-Based-Breed-Recognition-for-Cattle-and-Buffaloes-of-India) |
+| **🌾 AgriSens Smart Farming** | IEEE Published AI crop recommendation system (99.55% RF accuracy) & 38-class CNN plant disease detector. | `Python` `Scikit-Learn` `TensorFlow` `Streamlit` `IEEE` | [📂 Repository](https://github.com/AbhishekNarwade/AI-based-farmer-query-system) |
+| **✈️ AI Travel Planner** | Interactive itinerary builder, destination recommendations & budget estimator. | `JavaScript` `HTML5` `CSS3` `Web APIs` | [📂 Repository](https://github.com/AbhishekNarwade/AI-Travel-Planner) |
+| **🔑 Password Strength Analyzer** | Cybersecurity tool calculating password entropy, GPU crack time & breach checking. | `JavaScript` `Cybersecurity` `Entropy Math` | [📂 Repository](https://github.com/AbhishekNarwade/password-strength) |
+| **🔍 Web Vulnerability Scanner** | Automated Python CLI auditor for SQL Injection (SQLi), XSS, and directory disclosure. | `Python` `Requests` `Penetration Testing` | [📂 Repository](https://github.com/AbhishekNarwade/VulnerabilityScanner) |
+| **🍱 Mess Management System** | Hostel dining, daily thali menu planner, and attendance management web app. | `HTML5` `CSS3` `JavaScript` | [📂 Repository](https://github.com/AbhishekNarwade/Mess-Management-System) |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics & Statistics
+## 📊 Live GitHub Analytics & Activity
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=AbhishekNarwade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abhishek's GitHub Stats" />
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNarwade&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AbhishekNarwade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekNarwade&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekNarwade&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekNarwade&theme=tokyonight&hide_border=true" width="95%" alt="Streak Stats" />
 
 </div>
 
@@ -101,12 +126,15 @@ Automated CLI security tool for detecting SQL Injection (SQLi), Cross-Site Scrip
 
 <div align="center">
 
-### 🤝 Let's Connect!
+<!-- Footer Waving Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+
+### 🤝 Let's Connect & Collaborate!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-narwade)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheknarwade99@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheknarwade99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekNarwade)
 
-*⭐ Designed with passion by Abhishek Narwade*
+*⭐ Crafted with passion by Abhishek Narwade*
 
 </div>
