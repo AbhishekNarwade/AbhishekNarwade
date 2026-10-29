@@ -97,7 +97,7 @@ Profile:
 
 | Project Showcase | Tech Stack | Highlights | Repository |
 |---|---|---|---|
-| 🌾 **AgriSens / AI Farmer System** | `Python` `Machine Learning` | ML system providing data-driven crop recommendations & plant disease identification. | [📂 Repo](https://github.com/AbhishekNarwade/AI-based-farmer-query-system) |
+| 🌾 **Sales Performance Analysis Dashboard** | `Microsoft Excel` `PivotTables and PivotCharts` `Excel Slicers` `Data Analysis and Visualization` | Developed an interactive sales performance analysis project using Microsoft Excel to analyze revenue trends and business performance. | [📂 Repo](https://github.com/AbhishekNarwade/AI-based-farmer-query-system) |
 | 😷 **Face Mask Detection System** | `Python` `OpenCV` `PyTorch` `CNN` | Real-time Deep Learning model detecting face mask compliance via webcam feed. | [📂 Repo](https://github.com/AbhishekNarwade) |
 | 🛡️ **Insurance Comparison Platform** | `Python` `FastAPI` `PostgreSQL` `React` | Developed during Infosys Springboard internship; offers policy comparisons & claim assistance. | [📂 Repo](https://github.com/AbhishekNarwade/Insurance-Comparison-Recommendation-Claim-Assistant) |
 
